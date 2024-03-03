@@ -3391,6 +3391,7 @@ __metadata:
     ts-jest: "npm:^29.1.2"
     ts-node: "npm:^10.9.2"
     typescript: "npm:^5.3.3"
+    yargs: "npm:^17.7.2"
   languageName: unknown
   linkType: soft
 
@@ -3688,7 +3689,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yargs@npm:^17.3.1":
+"yargs@npm:^17.3.1, yargs@npm:^17.7.2":
   version: 17.7.2
   resolution: "yargs@npm:17.7.2"
   dependencies:

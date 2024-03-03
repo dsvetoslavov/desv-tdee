@@ -16,5 +16,8 @@
   "scripts": {
     "start": "ts-node src/index.ts",
     "test": "jest"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
   }
 }
