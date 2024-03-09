@@ -1,5 +1,3 @@
-import 'jest';
-
 describe('TDEE Calculator CLI', () => {
     let originalConsoleLog: any;
     let consoleOutput: string[] = [];
