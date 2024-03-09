@@ -1,5 +1,6 @@
 {
   "name": "tdee-cli",
+  "type": "module",
   "packageManager": "yarn@4.1.0",
   "volta": {
     "node": "21.6.2",
